@@ -2,7 +2,6 @@ from os import system, name
 import time
 from random import randint
 from sty import fg
-import main
 
 def clear():
     """This function will be used to clear the screen"""
